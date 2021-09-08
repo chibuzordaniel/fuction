@@ -13,6 +13,11 @@ body{
 overflow-x: hidden;
 }
 
+#frame{
+    width: 374px;
+    background: #F5F7FD;
+}
+
 .frame{
     display: flex;
     padding-left: 20px;
@@ -33,7 +38,7 @@ overflow-x: hidden;
     color:#64688D;
     background:#fff;
     width: 375px;
-    height: 55px;
+    height: 47px;
     border: 1px solid #F5F7FD;
     padding: 15px;
     font-size: 14px;
@@ -126,7 +131,7 @@ padding-left: 130px;
 
 .ama svg{
     position:absolute ;
-    top: 675px;
+    top: 640px;
     left: 40px;
     width: 16px;
     height: 16px;
@@ -157,7 +162,7 @@ padding-left: 130px;
 
 .contact svg{
     position: absolute;
-    top: 748px;
+    top: 715px;
     left: 40px;
     width: 16px;
     height: 16px;
@@ -198,9 +203,10 @@ padding-left: 130px;
 
 .bam svg{
     position: absolute;
-    right: 40px;
+    left: 295px;
     width: 16px;
     height: 16px;
+
 }
 
 .gome{
